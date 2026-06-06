@@ -1,8 +1,0 @@
-playwright>=1.48.0
-langgraph
-langchain
-langchain-community
-langchain-openai
-beautifulsoup4
-python-dotenv
-httpx
